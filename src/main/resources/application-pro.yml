@@ -19,3 +19,8 @@ logging:
 
 server:
   port: 8081
+
+
+md5:
+  salt: dxx.xpluo
+  times: 3

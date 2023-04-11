@@ -17,3 +17,6 @@ logging:
   file:
     path: log/blog-dev.log
 
+md5:
+  salt: dxx.xpluo
+  times: 3
